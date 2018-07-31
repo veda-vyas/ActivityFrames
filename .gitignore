@@ -7,3 +7,4 @@ build_without_gui/
 *.pyc
 *.spec
 .tmp.drivedownload/
+drivesync/GDrive_Sync/mycreds.txt
