@@ -8,3 +8,4 @@ build_without_gui/
 *.spec
 .tmp.drivedownload/
 drivesync/GDrive_Sync/mycreds.txt
+drivesync/GDrive_Sync/client_secrets.json
