@@ -1,0 +1,9 @@
+venv/
+dist/
+build/
+dist_without_gui/
+build_without_gui/
+*.pyw
+*.pyc
+*.spec
+.tmp.drivedownload/

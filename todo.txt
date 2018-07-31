@@ -1,0 +1,9 @@
+see if sleep time can be captured.. 
+on app quit make an activity frame
+add ui with exit, pause, resume. (or snooze)
+show notification after 5mins of pause
+non keyboard events
+
+
+syncingprocess:
+have a git server type of sync. on our end
